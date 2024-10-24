@@ -28,7 +28,7 @@ export function Header({ navBarElements }: HeaderProps) {
                     </li>
                 ))}
 
-                <button className="btn btn-primary w-32 shadow-md shadow-slate-400 btn-outline">Contato</button>
+                <button className="btn btn-primary w-32 border-none shadow-lg shadow-slate-300 btn-outline transform transition-transform duration-1200 hover:translate-y-[-2px]">Contato</button>
             </ul>
         </div>
     )
