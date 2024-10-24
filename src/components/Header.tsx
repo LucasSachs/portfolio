@@ -28,7 +28,7 @@ export function Header({ navBarElements }: HeaderProps) {
                     </li>
                 ))}
 
-                <button className="btn btn-primary w-32 border-none shadow-lg shadow-slate-300 btn-outline transform transition-transform duration-1200 hover:translate-y-[-2px]">Contato</button>
+                <button className="btn w-32 border-none shadow-lg shadow-slate-300 btn-outline transform transition-transform duration-1200 hover:translate-y-[-2px] bg-gradient-to-r from-neutral-200 to-secondary-200 text-primary hover:from-primary hover:to-primary">Contato</button>
             </ul>
         </div>
     )

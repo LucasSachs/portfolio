@@ -4,7 +4,7 @@ import "./globals.css";
 import clsx from "clsx/lite";
 
 export const metadata: Metadata = {
-  title: "Lucas Sachs Portfolio",
+  title: "Lucas Sachs || Portfolio",
   description: "Esse site faz referência ao Portfolio do Dev Lucas Sachs",
 };
 
